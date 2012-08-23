@@ -1,0 +1,12 @@
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\bin\Debug\Windows8RegTweaks.exe
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\bin\Debug\Windows8RegTweaks.pdb
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks.csprojResolveAssemblyReference.cache
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\MainWindow.baml
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\MainWindow.g.cs
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\App.g.cs
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks_MarkupCompile.cache
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks.g.resources
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks.Properties.Resources.resources
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks.csproj.GenerateResource.Cache
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks.exe
+c:\users\nallen\documents\visual studio 11\Projects\Windows8RegTweaks\Windows8RegTweaks\obj\Debug\Windows8RegTweaks.pdb
