@@ -4,10 +4,9 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <StatusBar HorizontalAlignment="Left" Height="27" Margin="136,275,0,0" VerticalAlignment="Top" Width="243"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="434,0,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="225,248,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Restore" HorizontalAlignment="Left" Margin="434,0,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Go!" HorizontalAlignment="Left" Margin="225,248,0,0" VerticalAlignment="Top" Width="75"/>
         <CheckBox Name="chkAutoLogin" Content="Automatic Login" HorizontalAlignment="Left" Margin="136,88,0,0" VerticalAlignment="Top"/>
         <CheckBox Name="chkDisableMetroStart" Content="Disable Metro Start Menu" HorizontalAlignment="Left" Margin="136,121,0,0" VerticalAlignment="Top"/>
-
     </Grid>
 </Window>
